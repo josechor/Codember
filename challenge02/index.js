@@ -5,7 +5,7 @@ console.time("challenge02");
 let contador = 0;
 cadenaSalida = "";
 
-cadena.split("").arrayCadena.forEach((element) => {
+cadena.split("").forEach((element) => {
   if (element === "#") {
     contador++;
   } else if (element === "@") {
